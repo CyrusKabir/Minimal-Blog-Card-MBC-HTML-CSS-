@@ -63,6 +63,7 @@ body {
 
 .card__visual-img {
   border-radius: 10px;
+  object-fit: cover;
 }
 
 .badges {
